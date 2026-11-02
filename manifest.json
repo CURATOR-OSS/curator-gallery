@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "Curator – Gallery helper (unofficial)",
+  "version": "0.17.0",
+  "description": "Unofficial helper for the Gallery in the EA SPORTS FC web app: grades, purchase plans, prices and cart. Not affiliated with EA.",
+  "background": {
+    "service_worker": "background.js"
+  },
+  "host_permissions": ["https://r2.fut.gg/*"],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.ea.com/ea-sports-fc/ultimate-team/web-app*",
+        "https://www.ea.com/*/ea-sports-fc/ultimate-team/web-app*"
+      ],
+      "js": ["bridge.js"],
+      "run_at": "document_start"
+    },
+    {
+      "matches": [
+        "https://www.ea.com/ea-sports-fc/ultimate-team/web-app*",
+        "https://www.ea.com/*/ea-sports-fc/ultimate-team/web-app*"
+      ],
+      "js": ["sets.js", "page.js"],
+      "world": "MAIN",
+      "run_at": "document_idle"
+    }
+  ]
+}

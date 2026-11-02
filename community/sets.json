@@ -1,0 +1,8258 @@
+{
+  "sets": [
+    {
+      "slug": "1-fc-nurnberg",
+      "name": "1. FC Nürnberg",
+      "category": "bundesliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 171,
+      "eaRarityIds": [],
+      "membership": "15 1. FC Nürnberg Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "1. FC Nürnberg Badge"
+        },
+        {
+          "grade": "C",
+          "score": 400,
+          "tokens": 0,
+          "reward": "1. FC Nürnberg Kit"
+        },
+        {
+          "grade": "B",
+          "score": 600,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1000,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1400,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "bayer-04-leverkusen",
+      "name": "Bayer 04 Leverkusen",
+      "category": "bundesliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 32,
+      "eaRarityIds": [],
+      "membership": "15 Bayer 04 Leverkusen Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Bayer 04 Leverkusen Badge"
+        },
+        {
+          "grade": "C",
+          "score": 9000,
+          "tokens": 0,
+          "reward": "Bayer 04 Leverkusen Kit"
+        },
+        {
+          "grade": "B",
+          "score": 70000,
+          "tokens": 30,
+          "reward": "30 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 160000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 325000,
+          "tokens": 75,
+          "reward": "75 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "borussia-dortmund",
+      "name": "Borussia Dortmund",
+      "category": "bundesliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 22,
+      "eaRarityIds": [],
+      "membership": "15 Borussia Dortmund Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Borussia Dortmund Badge"
+        },
+        {
+          "grade": "C",
+          "score": 13000,
+          "tokens": 0,
+          "reward": "Borussia Dortmund Kit"
+        },
+        {
+          "grade": "B",
+          "score": 150000,
+          "tokens": 30,
+          "reward": "30 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 320000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 625000,
+          "tokens": 75,
+          "reward": "75 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "borussia-monchengladbach",
+      "name": "Borussia Mönchengladbach",
+      "category": "bundesliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 23,
+      "eaRarityIds": [],
+      "membership": "15 Borussia Mönchengladbach Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Borussia M'gladbach Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1100,
+          "tokens": 0,
+          "reward": "Borussia Mönchengladbach Kit"
+        },
+        {
+          "grade": "B",
+          "score": 2400,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 3500,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 5000,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "eintracht-frankfurt",
+      "name": "Eintracht Frankfurt",
+      "category": "bundesliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 1824,
+      "eaRarityIds": [],
+      "membership": "15 Eintracht Frankfurt Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Eintracht Frankfurt Badge"
+        },
+        {
+          "grade": "C",
+          "score": 9000,
+          "tokens": 0,
+          "reward": "Eintracht Frankfurt Kit"
+        },
+        {
+          "grade": "B",
+          "score": 40000,
+          "tokens": 30,
+          "reward": "30 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 80000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 150000,
+          "tokens": 75,
+          "reward": "75 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "fc-augsburg",
+      "name": "FC Augsburg",
+      "category": "bundesliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 100409,
+      "eaRarityIds": [],
+      "membership": "15 FC Augsburg Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "FC Augsburg Badge"
+        },
+        {
+          "grade": "C",
+          "score": 800,
+          "tokens": 0,
+          "reward": "FC Augsburg Kit"
+        },
+        {
+          "grade": "B",
+          "score": 1600,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 2400,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 3500,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "fc-bayern-munchen",
+      "name": "FC Bayern München",
+      "category": "bundesliga",
+      "required": 20,
+      "eaEntityKind": "club",
+      "eaEntityId": 115995,
+      "eaRarityIds": [],
+      "membership": "20 FC Bayern München Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Bayern München Badge"
+        },
+        {
+          "grade": "C",
+          "score": 60000,
+          "tokens": 0,
+          "reward": "FC Bayern München Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1400000,
+          "tokens": 70,
+          "reward": "70 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 2800000,
+          "tokens": 100,
+          "reward": "100 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "fc-koln",
+      "name": "FC Köln",
+      "category": "bundesliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 31,
+      "eaRarityIds": [],
+      "membership": "15 FC Köln Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "1. FC Köln Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1000,
+          "tokens": 0,
+          "reward": "FC Köln Kit"
+        },
+        {
+          "grade": "B",
+          "score": 1700,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 2500,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 3600,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "fc-union-berlin",
+      "name": "FC Union Berlin",
+      "category": "bundesliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 1831,
+      "eaRarityIds": [],
+      "membership": "15 FC Union Berlin Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "1. FC Union Berlin Badge"
+        },
+        {
+          "grade": "C",
+          "score": 900,
+          "tokens": 0,
+          "reward": "FC Union Berlin Kit"
+        },
+        {
+          "grade": "B",
+          "score": 1300,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 2000,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 3000,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "fsv-mainz-05",
+      "name": "FSV Mainz 05",
+      "category": "bundesliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 169,
+      "eaRarityIds": [],
+      "membership": "15 FSV Mainz 05 Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "1. FSV Mainz 05 Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1000,
+          "tokens": 0,
+          "reward": "FSV Mainz 05 Kit"
+        },
+        {
+          "grade": "B",
+          "score": 2200,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 3400,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 4800,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "hamburger-sv",
+      "name": "Hamburger SV",
+      "category": "bundesliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 28,
+      "eaRarityIds": [],
+      "membership": "15 Hamburger SV Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Hamburger SV Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "Hamburger SV Kit"
+        },
+        {
+          "grade": "B",
+          "score": 1000,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1400,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 2000,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "rb-leipzig",
+      "name": "RB Leipzig",
+      "category": "bundesliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 112172,
+      "eaRarityIds": [],
+      "membership": "15 RB Leipzig Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "RB Leipzig Badge"
+        },
+        {
+          "grade": "C",
+          "score": 7000,
+          "tokens": 0,
+          "reward": "RB Leipzig Kit"
+        },
+        {
+          "grade": "B",
+          "score": 40000,
+          "tokens": 30,
+          "reward": "30 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 80000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 175000,
+          "tokens": 75,
+          "reward": "75 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "sc-freiburg",
+      "name": "SC Freiburg",
+      "category": "bundesliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 25,
+      "eaRarityIds": [],
+      "membership": "15 SC Freiburg Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "SC Freiburg Badge"
+        },
+        {
+          "grade": "C",
+          "score": 2000,
+          "tokens": 0,
+          "reward": "SC Freiburg Kit"
+        },
+        {
+          "grade": "B",
+          "score": 11500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 18000,
+          "tokens": 25,
+          "reward": "25 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 30000,
+          "tokens": 40,
+          "reward": "40 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "schalke-04",
+      "name": "Schalke 04",
+      "category": "bundesliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 34,
+      "eaRarityIds": [],
+      "membership": "15 Schalke 04 Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "FC Schalke 04 Badge"
+        },
+        {
+          "grade": "C",
+          "score": 400,
+          "tokens": 0,
+          "reward": "Schalke 04 Kit"
+        },
+        {
+          "grade": "B",
+          "score": 600,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1000,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1400,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "sc-paderborn-07",
+      "name": "SC Paderborn 07",
+      "category": "bundesliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 10030,
+      "eaRarityIds": [],
+      "membership": "15 SC Paderborn 07 Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "SC Paderborn 07 Badge"
+        },
+        {
+          "grade": "C",
+          "score": 400,
+          "tokens": 0,
+          "reward": "SC Paderborn 07 Kit"
+        },
+        {
+          "grade": "B",
+          "score": 600,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1000,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1400,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "sv-elversberg",
+      "name": "SV Elversberg",
+      "category": "bundesliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 580,
+      "eaRarityIds": [],
+      "membership": "15 SV Elversberg Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "SV Elversberg Badge"
+        },
+        {
+          "grade": "C",
+          "score": 400,
+          "tokens": 0,
+          "reward": "SV Elversberg Kit"
+        },
+        {
+          "grade": "B",
+          "score": 600,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1000,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1400,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "tsg-hoffenheim",
+      "name": "TSG Hoffenheim",
+      "category": "bundesliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 10029,
+      "eaRarityIds": [],
+      "membership": "15 TSG Hoffenheim Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "TSG 1899 Hoffenheim Badge"
+        },
+        {
+          "grade": "C",
+          "score": 3000,
+          "tokens": 0,
+          "reward": "TSG Hoffenheim Kit"
+        },
+        {
+          "grade": "B",
+          "score": 10000,
+          "tokens": 30,
+          "reward": "30 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 100000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 250000,
+          "tokens": 75,
+          "reward": "75 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "vfb-stuttgart",
+      "name": "VfB Stuttgart",
+      "category": "bundesliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 36,
+      "eaRarityIds": [],
+      "membership": "15 VfB Stuttgart Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "VfB Stuttgart Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1500,
+          "tokens": 0,
+          "reward": "VfB Stuttgart Kit"
+        },
+        {
+          "grade": "B",
+          "score": 4700,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 7000,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 9900,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "vfl-wolfsburg",
+      "name": "VfL Wolfsburg",
+      "category": "bundesliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 115998,
+      "eaRarityIds": [],
+      "membership": "15 VfL Wolfsburg Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "VfL Wolfsburg Badge"
+        },
+        {
+          "grade": "C",
+          "score": 4000,
+          "tokens": 0,
+          "reward": "VfL Wolfsburg Kit"
+        },
+        {
+          "grade": "B",
+          "score": 30000,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 46000,
+          "tokens": 25,
+          "reward": "25 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 75000,
+          "tokens": 40,
+          "reward": "40 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "werder-bremen",
+      "name": "Werder Bremen",
+      "category": "bundesliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 38,
+      "eaRarityIds": [],
+      "membership": "15 Werder Bremen Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Werder Bremen Badge"
+        },
+        {
+          "grade": "C",
+          "score": 2000,
+          "tokens": 0,
+          "reward": "Werder Bremen Kit"
+        },
+        {
+          "grade": "B",
+          "score": 5500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 7500,
+          "tokens": 25,
+          "reward": "25 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 11000,
+          "tokens": 40,
+          "reward": "40 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "athletic-club",
+      "name": "Athletic Club",
+      "category": "laliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 448,
+      "eaRarityIds": [],
+      "membership": "15 Athletic Club Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Athletic Club de Bilbao Badge"
+        },
+        {
+          "grade": "C",
+          "score": 7000,
+          "tokens": 0,
+          "reward": "Athletic Club Kit"
+        },
+        {
+          "grade": "B",
+          "score": 52500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 79000,
+          "tokens": 25,
+          "reward": "25 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 128000,
+          "tokens": 40,
+          "reward": "40 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "atletico-de-madrid",
+      "name": "Atlético de Madrid",
+      "category": "laliga",
+      "required": 20,
+      "eaEntityKind": "club",
+      "eaEntityId": 240,
+      "eaRarityIds": [],
+      "membership": "20 Atlético de Madrid Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Atlético de Madrid Badge"
+        },
+        {
+          "grade": "C",
+          "score": 20000,
+          "tokens": 0,
+          "reward": "Atlético de Madrid Kit"
+        },
+        {
+          "grade": "B",
+          "score": 400000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 700000,
+          "tokens": 70,
+          "reward": "70 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1300000,
+          "tokens": 100,
+          "reward": "100 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "ca-osasuna",
+      "name": "CA Osasuna",
+      "category": "laliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 479,
+      "eaRarityIds": [],
+      "membership": "15 CA Osasuna Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "CA Osasuna Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1300,
+          "tokens": 0,
+          "reward": "CA Osasuna Kit"
+        },
+        {
+          "grade": "B",
+          "score": 1800,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 2800,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 4100,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "celta-de-vigo",
+      "name": "Celta de Vigo",
+      "category": "laliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 450,
+      "eaRarityIds": [],
+      "membership": "15 Celta de Vigo Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "RC Celta de Vigo Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1300,
+          "tokens": 0,
+          "reward": "Celta de Vigo Kit"
+        },
+        {
+          "grade": "B",
+          "score": 4600,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 7000,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 9900,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "costa-adeje-tenerife",
+      "name": "Costa Adeje Tenerife",
+      "category": "laliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 116332,
+      "eaRarityIds": [],
+      "membership": "15 Costa Adeje Tenerife Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Costa Adeje Tenerife Badge"
+        },
+        {
+          "grade": "C",
+          "score": 300,
+          "tokens": 0,
+          "reward": "Costa Adeje Tenerife Kit"
+        },
+        {
+          "grade": "B",
+          "score": 500,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 700,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1000,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "deportivo-alaves",
+      "name": "Deportivo Alavés",
+      "category": "laliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 463,
+      "eaRarityIds": [],
+      "membership": "15 Deportivo Alavés Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Deportivo Alavés Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "Deportivo Alavés Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1600,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "elche-cf",
+      "name": "Elche CF",
+      "category": "laliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 468,
+      "eaRarityIds": [],
+      "membership": "15 Elche CF Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Elche CF Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "Elche CF Kit"
+        },
+        {
+          "grade": "B",
+          "score": 1400,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 2000,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 2900,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "fc-badalona-women",
+      "name": "FC Badalona Women",
+      "category": "laliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 131125,
+      "eaRarityIds": [],
+      "membership": "15 FC Badalona Women Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "FC Badalona Women Badge"
+        },
+        {
+          "grade": "C",
+          "score": 600,
+          "tokens": 0,
+          "reward": "FC Badalona Women Kit"
+        },
+        {
+          "grade": "B",
+          "score": 800,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1200,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1800,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "fc-barcelona",
+      "name": "FC Barcelona",
+      "category": "laliga",
+      "required": 20,
+      "eaEntityKind": "club",
+      "eaEntityId": 241,
+      "eaRarityIds": [],
+      "membership": "20 FC Barcelona Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "FC Barcelona Badge"
+        },
+        {
+          "grade": "C",
+          "score": 170000,
+          "tokens": 0,
+          "reward": "FC Barcelona Kit"
+        },
+        {
+          "grade": "B",
+          "score": 1200000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1800000,
+          "tokens": 70,
+          "reward": "70 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 2800000,
+          "tokens": 100,
+          "reward": "100 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "getafe-cf",
+      "name": "Getafe CF",
+      "category": "laliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 1860,
+      "eaRarityIds": [],
+      "membership": "15 Getafe CF Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Getafe CF Badge"
+        },
+        {
+          "grade": "C",
+          "score": 900,
+          "tokens": 0,
+          "reward": "Getafe CF Kit"
+        },
+        {
+          "grade": "B",
+          "score": 1300,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 2000,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 3000,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "granada-cf",
+      "name": "Granada CF",
+      "category": "laliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 110832,
+      "eaRarityIds": [],
+      "membership": "15 Granada CF Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Granada CF Badge"
+        },
+        {
+          "grade": "C",
+          "score": 400,
+          "tokens": 0,
+          "reward": "Granada CF Kit"
+        },
+        {
+          "grade": "B",
+          "score": 600,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1000,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1400,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "levante-ud",
+      "name": "Levante UD",
+      "category": "laliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 1853,
+      "eaRarityIds": [],
+      "membership": "15 Levante UD Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Levante UD Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "Levante UD Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1200,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1700,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "logrono-united",
+      "name": "Logroño United",
+      "category": "laliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 132629,
+      "eaRarityIds": [],
+      "membership": "15 Logroño United Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Logroño United Badge"
+        },
+        {
+          "grade": "C",
+          "score": 300,
+          "tokens": 0,
+          "reward": "Logroño United Kit"
+        },
+        {
+          "grade": "B",
+          "score": 500,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 700,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1000,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "madrid-cff",
+      "name": "Madrid CFF",
+      "category": "laliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 116334,
+      "eaRarityIds": [],
+      "membership": "15 Madrid CFF Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Madrid CFF Badge"
+        },
+        {
+          "grade": "C",
+          "score": 600,
+          "tokens": 0,
+          "reward": "Madrid CFF Kit"
+        },
+        {
+          "grade": "B",
+          "score": 2400,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 3600,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 5100,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "malaga-cf",
+      "name": "Malaga CF",
+      "category": "laliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 573,
+      "eaRarityIds": [],
+      "membership": "15 Malaga CF Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Málaga CF Badge"
+        },
+        {
+          "grade": "C",
+          "score": 300,
+          "tokens": 0,
+          "reward": "Malaga CF Kit"
+        },
+        {
+          "grade": "B",
+          "score": 400,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 700,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 900,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "rayo-vallecano",
+      "name": "Rayo Vallecano",
+      "category": "laliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 480,
+      "eaRarityIds": [],
+      "membership": "15 Rayo Vallecano Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Rayo Vallecano Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1400,
+          "tokens": 0,
+          "reward": "Rayo Vallecano Kit"
+        },
+        {
+          "grade": "B",
+          "score": 2200,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 3300,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 4700,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "rc-deportivo",
+      "name": "RC Deportivo",
+      "category": "laliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 242,
+      "eaRarityIds": [],
+      "membership": "15 RC Deportivo Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "RC Deportivo Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "RC Deportivo Kit"
+        },
+        {
+          "grade": "B",
+          "score": 3700,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 5500,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 7800,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "rcd-espanyol",
+      "name": "RCD Espanyol",
+      "category": "laliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 452,
+      "eaRarityIds": [],
+      "membership": "15 RCD Espanyol Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "RCD Espanyol Badge"
+        },
+        {
+          "grade": "C",
+          "score": 800,
+          "tokens": 0,
+          "reward": "RCD Espanyol Kit"
+        },
+        {
+          "grade": "B",
+          "score": 1500,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 2300,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 3200,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "real-betis-balompie",
+      "name": "Real Betis Balompié",
+      "category": "laliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 449,
+      "eaRarityIds": [],
+      "membership": "15 Real Betis Balompié Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Real Betis Balompié Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1900,
+          "tokens": 0,
+          "reward": "Real Betis Balompié Kit"
+        },
+        {
+          "grade": "B",
+          "score": 7300,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 10900,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 15400,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "real-madrid",
+      "name": "Real Madrid",
+      "category": "laliga",
+      "required": 20,
+      "eaEntityKind": "club",
+      "eaEntityId": 243,
+      "eaRarityIds": [],
+      "membership": "20 Real Madrid Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Real Madrid Badge"
+        },
+        {
+          "grade": "C",
+          "score": 70000,
+          "tokens": 0,
+          "reward": "Real Madrid Kit"
+        },
+        {
+          "grade": "B",
+          "score": 1000000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1400000,
+          "tokens": 70,
+          "reward": "70 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 2100000,
+          "tokens": 100,
+          "reward": "100 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "real-racing-club",
+      "name": "Real Racing Club",
+      "category": "laliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 456,
+      "eaRarityIds": [],
+      "membership": "15 Real Racing Club Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Racing de Santander Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "Real Racing Club Kit"
+        },
+        {
+          "grade": "B",
+          "score": 600,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1000,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "real-sociedad",
+      "name": "Real Sociedad",
+      "category": "laliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 457,
+      "eaRarityIds": [],
+      "membership": "15 Real Sociedad Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Real Sociedad Badge"
+        },
+        {
+          "grade": "C",
+          "score": 3500,
+          "tokens": 0,
+          "reward": "Real Sociedad Kit"
+        },
+        {
+          "grade": "B",
+          "score": 22000,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 37000,
+          "tokens": 25,
+          "reward": "25 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 65000,
+          "tokens": 40,
+          "reward": "40 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "sd-eibar",
+      "name": "SD Eibar",
+      "category": "laliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 116331,
+      "eaRarityIds": [],
+      "membership": "15 SD Eibar Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "SD Eibar Badge"
+        },
+        {
+          "grade": "C",
+          "score": 300,
+          "tokens": 0,
+          "reward": "SD Eibar Kit"
+        },
+        {
+          "grade": "B",
+          "score": 500,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 700,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1000,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "sevilla-fc",
+      "name": "Sevilla FC",
+      "category": "laliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 481,
+      "eaRarityIds": [],
+      "membership": "15 Sevilla FC Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Sevilla FC Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1500,
+          "tokens": 0,
+          "reward": "Sevilla FC Kit"
+        },
+        {
+          "grade": "B",
+          "score": 4500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 5500,
+          "tokens": 25,
+          "reward": "25 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 7000,
+          "tokens": 40,
+          "reward": "40 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "valencia-cf",
+      "name": "Valencia CF",
+      "category": "laliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 461,
+      "eaRarityIds": [],
+      "membership": "15 Valencia CF Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Valencia CF Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1300,
+          "tokens": 0,
+          "reward": "Valencia CF Kit"
+        },
+        {
+          "grade": "B",
+          "score": 1800,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 2800,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 4100,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "villarreal-cf",
+      "name": "Villarreal CF",
+      "category": "laliga",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 483,
+      "eaRarityIds": [],
+      "membership": "15 Villarreal CF Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Villarreal CF Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1900,
+          "tokens": 0,
+          "reward": "Villarreal CF Kit"
+        },
+        {
+          "grade": "B",
+          "score": 3500,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 5300,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 7500,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "arkema-pl",
+      "name": "Arkema PL",
+      "category": "leagues",
+      "required": 30,
+      "eaEntityKind": "league",
+      "eaEntityId": 2218,
+      "eaRarityIds": [],
+      "membership": "",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "C",
+          "score": 75000,
+          "tokens": 35,
+          "reward": "35 Gallery Tokens"
+        },
+        {
+          "grade": "B",
+          "score": 575000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1800000,
+          "tokens": 70,
+          "reward": "70 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 4000000,
+          "tokens": 100,
+          "reward": "100 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "barclays-wsl",
+      "name": "Barclays WSL",
+      "category": "leagues",
+      "required": 30,
+      "eaEntityKind": "league",
+      "eaEntityId": 2216,
+      "eaRarityIds": [],
+      "membership": "",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "C",
+          "score": 200000,
+          "tokens": 35,
+          "reward": "35 Gallery Tokens"
+        },
+        {
+          "grade": "B",
+          "score": 725000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1900000,
+          "tokens": 70,
+          "reward": "70 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 4000000,
+          "tokens": 100,
+          "reward": "100 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "bundesliga",
+      "name": "Bundesliga",
+      "category": "leagues",
+      "required": 30,
+      "eaEntityKind": "league",
+      "eaEntityId": 19,
+      "eaRarityIds": [],
+      "membership": "",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "C",
+          "score": 100000,
+          "tokens": 35,
+          "reward": "35 Gallery Tokens"
+        },
+        {
+          "grade": "B",
+          "score": 400000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1500000,
+          "tokens": 70,
+          "reward": "70 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 3500000,
+          "tokens": 100,
+          "reward": "100 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "frauen-bundesliga",
+      "name": "Frauen-Bundesliga",
+      "category": "leagues",
+      "required": 30,
+      "eaEntityKind": "league",
+      "eaEntityId": 2215,
+      "eaRarityIds": [],
+      "membership": "",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "C",
+          "score": 50000,
+          "tokens": 35,
+          "reward": "35 Gallery Tokens"
+        },
+        {
+          "grade": "B",
+          "score": 200000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1400000,
+          "tokens": 70,
+          "reward": "70 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 3500000,
+          "tokens": 100,
+          "reward": "100 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "laliga-ea-sports",
+      "name": "LALIGA EA SPORTS",
+      "category": "leagues",
+      "required": 30,
+      "eaEntityKind": "league",
+      "eaEntityId": 53,
+      "eaRarityIds": [],
+      "membership": "",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "C",
+          "score": 275000,
+          "tokens": 35,
+          "reward": "35 Gallery Tokens"
+        },
+        {
+          "grade": "B",
+          "score": 725000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1900000,
+          "tokens": 70,
+          "reward": "70 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 4000000,
+          "tokens": 100,
+          "reward": "100 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "liga-f-moeve",
+      "name": "Liga F Moeve",
+      "category": "leagues",
+      "required": 30,
+      "eaEntityKind": "league",
+      "eaEntityId": 2222,
+      "eaRarityIds": [],
+      "membership": "",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "C",
+          "score": 125000,
+          "tokens": 35,
+          "reward": "35 Gallery Tokens"
+        },
+        {
+          "grade": "B",
+          "score": 625000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1800000,
+          "tokens": 70,
+          "reward": "70 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 4000000,
+          "tokens": 100,
+          "reward": "100 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "ligue-1-mcdonald-s",
+      "name": "Ligue 1 McDonald's",
+      "category": "leagues",
+      "required": 30,
+      "eaEntityKind": "league",
+      "eaEntityId": 16,
+      "eaRarityIds": [],
+      "membership": "",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "C",
+          "score": 75000,
+          "tokens": 35,
+          "reward": "35 Gallery Tokens"
+        },
+        {
+          "grade": "B",
+          "score": 275000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1600000,
+          "tokens": 70,
+          "reward": "70 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 4000000,
+          "tokens": 100,
+          "reward": "100 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "mls",
+      "name": "MLS",
+      "category": "leagues",
+      "required": 30,
+      "eaEntityKind": "league",
+      "eaEntityId": 39,
+      "eaRarityIds": [],
+      "membership": "",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "C",
+          "score": 15000,
+          "tokens": 35,
+          "reward": "35 Gallery Tokens"
+        },
+        {
+          "grade": "B",
+          "score": 30000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 500000,
+          "tokens": 70,
+          "reward": "70 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500000,
+          "tokens": 100,
+          "reward": "100 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "nwsl",
+      "name": "NWSL",
+      "category": "leagues",
+      "required": 30,
+      "eaEntityKind": "league",
+      "eaEntityId": 2221,
+      "eaRarityIds": [],
+      "membership": "",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "C",
+          "score": 65000,
+          "tokens": 35,
+          "reward": "35 Gallery Tokens"
+        },
+        {
+          "grade": "B",
+          "score": 330000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1600000,
+          "tokens": 70,
+          "reward": "70 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 4000000,
+          "tokens": 100,
+          "reward": "100 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "premier-league",
+      "name": "Premier League",
+      "category": "leagues",
+      "required": 30,
+      "eaEntityKind": "league",
+      "eaEntityId": 13,
+      "eaRarityIds": [],
+      "membership": "",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "C",
+          "score": 400000,
+          "tokens": 35,
+          "reward": "35 Gallery Tokens"
+        },
+        {
+          "grade": "B",
+          "score": 800000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1900000,
+          "tokens": 70,
+          "reward": "70 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 4000000,
+          "tokens": 100,
+          "reward": "100 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "roshn-saudi-pro-league",
+      "name": "ROSHN Saudi Pro League",
+      "category": "leagues",
+      "required": 30,
+      "eaEntityKind": "league",
+      "eaEntityId": 350,
+      "eaRarityIds": [],
+      "membership": "",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "C",
+          "score": 35000,
+          "tokens": 35,
+          "reward": "35 Gallery Tokens"
+        },
+        {
+          "grade": "B",
+          "score": 135000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1000000,
+          "tokens": 70,
+          "reward": "70 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 2500000,
+          "tokens": 100,
+          "reward": "100 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "serie-a-enilive",
+      "name": "Serie A Enilive",
+      "category": "leagues",
+      "required": 30,
+      "eaEntityKind": "league",
+      "eaEntityId": 31,
+      "eaRarityIds": [],
+      "membership": "",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "C",
+          "score": 100000,
+          "tokens": 35,
+          "reward": "35 Gallery Tokens"
+        },
+        {
+          "grade": "B",
+          "score": 425000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1500000,
+          "tokens": 70,
+          "reward": "70 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 3500000,
+          "tokens": 100,
+          "reward": "100 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "aj-auxerre",
+      "name": "AJ Auxerre",
+      "category": "ligue-1",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 57,
+      "eaRarityIds": [],
+      "membership": "15 AJ Auxerre Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "AJ Auxerre Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "AJ Auxerre Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1000,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "angers-sco",
+      "name": "Angers SCO",
+      "category": "ligue-1",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 1530,
+      "eaRarityIds": [],
+      "membership": "15 Angers SCO Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Angers SCO Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "Angers SCO Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1000,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "as-monaco",
+      "name": "AS Monaco",
+      "category": "ligue-1",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 69,
+      "eaRarityIds": [],
+      "membership": "15 AS Monaco Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "AS Monaco Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1700,
+          "tokens": 0,
+          "reward": "AS Monaco Kit"
+        },
+        {
+          "grade": "B",
+          "score": 3100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 4700,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 6600,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "estac-troyes",
+      "name": "ESTAC Troyes",
+      "category": "ligue-1",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 294,
+      "eaRarityIds": [],
+      "membership": "15 ESTAC Troyes Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "ESTAC Troyes Badge"
+        },
+        {
+          "grade": "C",
+          "score": 400,
+          "tokens": 0,
+          "reward": "ESTAC Troyes Kit"
+        },
+        {
+          "grade": "B",
+          "score": 600,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1000,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1400,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "fc-fleury-91",
+      "name": "FC Fleury 91",
+      "category": "ligue-1",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 116036,
+      "eaRarityIds": [],
+      "membership": "15 FC Fleury 91 Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "FC Fleury 91 Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1300,
+          "tokens": 0,
+          "reward": "FC Fleury 91 Kit"
+        },
+        {
+          "grade": "B",
+          "score": 1900,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 3000,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 4300,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "fc-lorient",
+      "name": "FC Lorient",
+      "category": "ligue-1",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 217,
+      "eaRarityIds": [],
+      "membership": "15 FC Lorient Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "FC Lorient Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "FC Lorient Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1600,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "fc-nantes",
+      "name": "FC Nantes",
+      "category": "ligue-1",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 116417,
+      "eaRarityIds": [],
+      "membership": "15 FC Nantes Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "FC Nantes Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "FC Nantes Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1200,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1700,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "le-havre-ac",
+      "name": "Le Havre AC",
+      "category": "ligue-1",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 1738,
+      "eaRarityIds": [],
+      "membership": "15 Le Havre AC Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Le Havre AC Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "Le Havre AC Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1600,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "le-mans-fc",
+      "name": "Le Mans FC",
+      "category": "ligue-1",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 1739,
+      "eaRarityIds": [],
+      "membership": "15 Le Mans FC Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Le Mans FC Badge"
+        },
+        {
+          "grade": "C",
+          "score": 300,
+          "tokens": 0,
+          "reward": "Le Mans FC Kit"
+        },
+        {
+          "grade": "B",
+          "score": 500,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 700,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1000,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "losc-lille",
+      "name": "LOSC Lille",
+      "category": "ligue-1",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 65,
+      "eaRarityIds": [],
+      "membership": "15 LOSC Lille Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "LOSC Lille Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1300,
+          "tokens": 0,
+          "reward": "LOSC Lille Kit"
+        },
+        {
+          "grade": "B",
+          "score": 2500,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 3700,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 5200,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "montpellier-herault-sc",
+      "name": "Montpellier Hérault SC",
+      "category": "ligue-1",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 116037,
+      "eaRarityIds": [],
+      "membership": "15 Montpellier Hérault SC Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Montpellier FC Badge"
+        },
+        {
+          "grade": "C",
+          "score": 300,
+          "tokens": 0,
+          "reward": "Montpellier Hérault SC Kit"
+        },
+        {
+          "grade": "B",
+          "score": 500,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 700,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1000,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "ogc-nice",
+      "name": "OGC Nice",
+      "category": "ligue-1",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 72,
+      "eaRarityIds": [],
+      "membership": "15 OGC Nice Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "OGC Nice Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1200,
+          "tokens": 0,
+          "reward": "OGC Nice Kit"
+        },
+        {
+          "grade": "B",
+          "score": 2000,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 3000,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 4200,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "olympique-de-marseille",
+      "name": "Olympique de Marseille",
+      "category": "ligue-1",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 219,
+      "eaRarityIds": [],
+      "membership": "15 Olympique de Marseille Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Olympique de Marseille Badge"
+        },
+        {
+          "grade": "C",
+          "score": 6000,
+          "tokens": 0,
+          "reward": "Olympique de Marseille Kit"
+        },
+        {
+          "grade": "B",
+          "score": 50000,
+          "tokens": 30,
+          "reward": "30 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 80000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 150000,
+          "tokens": 75,
+          "reward": "75 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "olympique-lyonnais",
+      "name": "Olympique Lyonnais",
+      "category": "ligue-1",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 66,
+      "eaRarityIds": [],
+      "membership": "15 Olympique Lyonnais Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Olympique Lyonnais Badge"
+        },
+        {
+          "grade": "C",
+          "score": 58000,
+          "tokens": 0,
+          "reward": "Olympique Lyonnais Kit"
+        },
+        {
+          "grade": "B",
+          "score": 170000,
+          "tokens": 30,
+          "reward": "30 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 400000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 800000,
+          "tokens": 75,
+          "reward": "75 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "paris-fc",
+      "name": "Paris FC",
+      "category": "ligue-1",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 111817,
+      "eaRarityIds": [],
+      "membership": "15 Paris FC Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Paris FC Badge"
+        },
+        {
+          "grade": "C",
+          "score": 5000,
+          "tokens": 0,
+          "reward": "Paris FC Kit"
+        },
+        {
+          "grade": "B",
+          "score": 20000,
+          "tokens": 30,
+          "reward": "30 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 60000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 125000,
+          "tokens": 75,
+          "reward": "75 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "paris-saint-germain",
+      "name": "Paris Saint-Germain",
+      "category": "ligue-1",
+      "required": 20,
+      "eaEntityKind": "club",
+      "eaEntityId": 73,
+      "eaRarityIds": [],
+      "membership": "20 Paris Saint-Germain Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Paris Saint-Germain Badge"
+        },
+        {
+          "grade": "C",
+          "score": 80000,
+          "tokens": 0,
+          "reward": "Paris Saint-Germain Kit"
+        },
+        {
+          "grade": "B",
+          "score": 900000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1700000,
+          "tokens": 70,
+          "reward": "70 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 3100000,
+          "tokens": 100,
+          "reward": "100 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "rc-lens",
+      "name": "RC Lens",
+      "category": "ligue-1",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 64,
+      "eaRarityIds": [],
+      "membership": "15 RC Lens Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "RC Lens Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1000,
+          "tokens": 0,
+          "reward": "RC Lens Kit"
+        },
+        {
+          "grade": "B",
+          "score": 22500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 38000,
+          "tokens": 25,
+          "reward": "25 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 67000,
+          "tokens": 40,
+          "reward": "40 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "rc-strasbourg",
+      "name": "RC Strasbourg",
+      "category": "ligue-1",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 131724,
+      "eaRarityIds": [],
+      "membership": "15 RC Strasbourg Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "RC Strasbourg Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1500,
+          "tokens": 0,
+          "reward": "RC Strasbourg Kit"
+        },
+        {
+          "grade": "B",
+          "score": 5000,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 6500,
+          "tokens": 25,
+          "reward": "25 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 9500,
+          "tokens": 40,
+          "reward": "40 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "stade-brestois-29",
+      "name": "Stade Brestois 29",
+      "category": "ligue-1",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 378,
+      "eaRarityIds": [],
+      "membership": "15 Stade Brestois 29 Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Stade Brestois 29 Badge"
+        },
+        {
+          "grade": "C",
+          "score": 700,
+          "tokens": 0,
+          "reward": "Stade Brestois 29 Kit"
+        },
+        {
+          "grade": "B",
+          "score": 1000,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1600,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 2300,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "stade-rennais-fc",
+      "name": "Stade Rennais FC",
+      "category": "ligue-1",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 74,
+      "eaRarityIds": [],
+      "membership": "15 Stade Rennais FC Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Stade Rennais Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1100,
+          "tokens": 0,
+          "reward": "Stade Rennais FC Kit"
+        },
+        {
+          "grade": "B",
+          "score": 4700,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 7000,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 9900,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "toulouse-fc",
+      "name": "Toulouse FC",
+      "category": "ligue-1",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 1809,
+      "eaRarityIds": [],
+      "membership": "15 Toulouse FC Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Toulouse FC Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "Toulouse FC Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1600,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "us-saint-malo",
+      "name": "US Saint-Malo",
+      "category": "ligue-1",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 132861,
+      "eaRarityIds": [],
+      "membership": "15 US Saint-Malo Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "US Saint-Malo Badge"
+        },
+        {
+          "grade": "C",
+          "score": 300,
+          "tokens": 0,
+          "reward": "US Saint-Malo Kit"
+        },
+        {
+          "grade": "B",
+          "score": 500,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 700,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1000,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "atlanta-united",
+      "name": "Atlanta United",
+      "category": "mls",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 112885,
+      "eaRarityIds": [],
+      "membership": "15 Atlanta United Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Atlanta United FC Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "Atlanta United Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "austin-fc",
+      "name": "Austin FC",
+      "category": "mls",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 114161,
+      "eaRarityIds": [],
+      "membership": "15 Austin FC Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Austin FC Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "Austin FC Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "cf-montreal",
+      "name": "CF Montréal",
+      "category": "mls",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 111139,
+      "eaRarityIds": [],
+      "membership": "15 CF Montréal Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "CF Montréal Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "CF Montréal Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "charlotte-fc",
+      "name": "Charlotte FC",
+      "category": "mls",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 114640,
+      "eaRarityIds": [],
+      "membership": "15 Charlotte FC Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 11,
+          "tokens": 0,
+          "reward": "Charlotte FC Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "Charlotte FC Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "chicago-fire-fc",
+      "name": "Chicago Fire FC",
+      "category": "mls",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 693,
+      "eaRarityIds": [],
+      "membership": "15 Chicago Fire FC Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Chicago Fire FC Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "Chicago Fire FC Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "colorado-rapids",
+      "name": "Colorado Rapids",
+      "category": "mls",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 694,
+      "eaRarityIds": [],
+      "membership": "15 Colorado Rapids Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Colorado Rapids Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "Colorado Rapids Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "columbus-crew",
+      "name": "Columbus Crew",
+      "category": "mls",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 687,
+      "eaRarityIds": [],
+      "membership": "15 Columbus Crew Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Columbus Crew Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "Columbus Crew Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "d-c-united",
+      "name": "D.C. United",
+      "category": "mls",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 688,
+      "eaRarityIds": [],
+      "membership": "15 D.C. United Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "D.C. United Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "D.C. United Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "fc-cincinnati",
+      "name": "FC Cincinnati",
+      "category": "mls",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 113149,
+      "eaRarityIds": [],
+      "membership": "15 FC Cincinnati Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "FC Cincinnati Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "FC Cincinnati Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "fc-dallas",
+      "name": "FC Dallas",
+      "category": "mls",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 695,
+      "eaRarityIds": [],
+      "membership": "15 FC Dallas Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "FC Dallas Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "FC Dallas Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "houston-dynamo",
+      "name": "Houston Dynamo",
+      "category": "mls",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 698,
+      "eaRarityIds": [],
+      "membership": "15 Houston Dynamo Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Houston Dynamo Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "Houston Dynamo Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "inter-miami-cf",
+      "name": "Inter Miami CF",
+      "category": "mls",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 112893,
+      "eaRarityIds": [],
+      "membership": "15 Inter Miami CF Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Inter Miami Badge"
+        },
+        {
+          "grade": "C",
+          "score": 2000,
+          "tokens": 0,
+          "reward": "Inter Miami CF Kit"
+        },
+        {
+          "grade": "B",
+          "score": 4000,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 5500,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 8000,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "lafc",
+      "name": "LAFC",
+      "category": "mls",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 112996,
+      "eaRarityIds": [],
+      "membership": "15 LAFC Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Los Angeles FC Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1000,
+          "tokens": 0,
+          "reward": "LAFC Kit"
+        },
+        {
+          "grade": "B",
+          "score": 2000,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 3000,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 4000,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "la-galaxy",
+      "name": "LA Galaxy",
+      "category": "mls",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 697,
+      "eaRarityIds": [],
+      "membership": "15 LA Galaxy Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Los Angeles Galaxy Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "LA Galaxy Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "minnesota-united",
+      "name": "Minnesota United",
+      "category": "mls",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 111138,
+      "eaRarityIds": [],
+      "membership": "15 Minnesota United Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Minnesota United FC Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "Minnesota United Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "nashville-sc",
+      "name": "Nashville SC",
+      "category": "mls",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 114162,
+      "eaRarityIds": [],
+      "membership": "15 Nashville SC Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Nashville SC Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "Nashville SC Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "new-england-revolution",
+      "name": "New England Revolution",
+      "category": "mls",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 691,
+      "eaRarityIds": [],
+      "membership": "15 New England Revolution Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "New England Revolution Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "New England Revolution Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "new-york-city-fc",
+      "name": "New York City FC",
+      "category": "mls",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 112828,
+      "eaRarityIds": [],
+      "membership": "15 New York City FC Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "New York City FC Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "New York City FC Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "new-york-red-bulls",
+      "name": "New York Red Bulls",
+      "category": "mls",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 689,
+      "eaRarityIds": [],
+      "membership": "15 New York Red Bulls Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Red Bull New York Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "New York Red Bulls Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "orlando-city-soccer-club",
+      "name": "Orlando City Soccer Club",
+      "category": "mls",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 112606,
+      "eaRarityIds": [],
+      "membership": "15 Orlando City Soccer Club Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Orlando City SC Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "Orlando City Soccer Club Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "philadelphia-union",
+      "name": "Philadelphia Union",
+      "category": "mls",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 112134,
+      "eaRarityIds": [],
+      "membership": "15 Philadelphia Union Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Philadelphia Union Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "Philadelphia Union Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "portland-timbers",
+      "name": "Portland Timbers",
+      "category": "mls",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 111140,
+      "eaRarityIds": [],
+      "membership": "15 Portland Timbers Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Portland Timbers Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "Portland Timbers Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "real-salt-lake",
+      "name": "Real Salt Lake",
+      "category": "mls",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 111065,
+      "eaRarityIds": [],
+      "membership": "15 Real Salt Lake Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Real Salt Lake Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "Real Salt Lake Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "san-diego-fc",
+      "name": "San Diego FC",
+      "category": "mls",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 131439,
+      "eaRarityIds": [],
+      "membership": "15 San Diego FC Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 18,
+          "tokens": 0,
+          "reward": "San Diego FC Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "San Diego FC Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "san-jose-earthquakes",
+      "name": "San Jose Earthquakes",
+      "category": "mls",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 111928,
+      "eaRarityIds": [],
+      "membership": "15 San Jose Earthquakes Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "San Jose Earthquakes Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "San Jose Earthquakes Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "seattle-sounders-fc",
+      "name": "Seattle Sounders FC",
+      "category": "mls",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 111144,
+      "eaRarityIds": [],
+      "membership": "15 Seattle Sounders FC Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Seattle Sounders Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "Seattle Sounders FC Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "sporting-kansas-city",
+      "name": "Sporting Kansas City",
+      "category": "mls",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 696,
+      "eaRarityIds": [],
+      "membership": "15 Sporting Kansas City Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Sporting KC Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "Sporting Kansas City Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "st-louis-city-sc",
+      "name": "St. Louis CITY SC",
+      "category": "mls",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 113018,
+      "eaRarityIds": [],
+      "membership": "15 St. Louis CITY SC Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "St. Louis City SC Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "St. Louis CITY SC Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "toronto-fc",
+      "name": "Toronto FC",
+      "category": "mls",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 111651,
+      "eaRarityIds": [],
+      "membership": "15 Toronto FC Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Toronto FC Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "Toronto FC Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "vancouver-whitecaps-fc",
+      "name": "Vancouver Whitecaps FC",
+      "category": "mls",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 101112,
+      "eaRarityIds": [],
+      "membership": "15 Vancouver Whitecaps FC Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Vancouver Whitecaps Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "Vancouver Whitecaps FC Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "angel-city-fc",
+      "name": "Angel City FC",
+      "category": "national-women-s-soccer-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 116311,
+      "eaRarityIds": [],
+      "membership": "15 Angel City FC Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Angel City FC Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1800,
+          "tokens": 0,
+          "reward": "Angel City FC Kit"
+        },
+        {
+          "grade": "B",
+          "score": 2500,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 3750,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 5500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "bay-football-club",
+      "name": "Bay Football Club",
+      "category": "national-women-s-soccer-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 131477,
+      "eaRarityIds": [],
+      "membership": "15 Bay Football Club Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Bay FC Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1600,
+          "tokens": 0,
+          "reward": "Bay Football Club Kit"
+        },
+        {
+          "grade": "B",
+          "score": 2250,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 3500,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 5000,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "boston-legacy-fc",
+      "name": "Boston Legacy FC",
+      "category": "national-women-s-soccer-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 132697,
+      "eaRarityIds": [],
+      "membership": "15 Boston Legacy FC Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Boston Legacy FC Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1000,
+          "tokens": 0,
+          "reward": "Boston Legacy FC Kit"
+        },
+        {
+          "grade": "B",
+          "score": 1250,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 2250,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 3000,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "chicago-stars-fc",
+      "name": "Chicago Stars FC",
+      "category": "national-women-s-soccer-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 116305,
+      "eaRarityIds": [],
+      "membership": "15 Chicago Stars FC Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Chicago Stars FC Badge"
+        },
+        {
+          "grade": "C",
+          "score": 2700,
+          "tokens": 0,
+          "reward": "Chicago Stars FC Kit"
+        },
+        {
+          "grade": "B",
+          "score": 3750,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 6000,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 8750,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "denver-summit-fc",
+      "name": "Denver Summit FC",
+      "category": "national-women-s-soccer-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 132698,
+      "eaRarityIds": [],
+      "membership": "15 Denver Summit FC Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Denver Summit FC Badge"
+        },
+        {
+          "grade": "C",
+          "score": 2500,
+          "tokens": 0,
+          "reward": "Denver Summit FC Kit"
+        },
+        {
+          "grade": "B",
+          "score": 3500,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 6000,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 8500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "gotham-fc",
+      "name": "Gotham FC",
+      "category": "national-women-s-soccer-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 116310,
+      "eaRarityIds": [],
+      "membership": "15 Gotham FC Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Gotham FC Badge"
+        },
+        {
+          "grade": "C",
+          "score": 4000,
+          "tokens": 0,
+          "reward": "Gotham FC Kit"
+        },
+        {
+          "grade": "B",
+          "score": 24500,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 37000,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 52500,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "houston-dash",
+      "name": "Houston Dash",
+      "category": "national-women-s-soccer-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 116306,
+      "eaRarityIds": [],
+      "membership": "15 Houston Dash Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Houston Dash Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1600,
+          "tokens": 0,
+          "reward": "Houston Dash Kit"
+        },
+        {
+          "grade": "B",
+          "score": 2250,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 3500,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 5250,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "kansas-city-current",
+      "name": "Kansas City Current",
+      "category": "national-women-s-soccer-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 116309,
+      "eaRarityIds": [],
+      "membership": "15 Kansas City Current Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Kansas City Current Badge"
+        },
+        {
+          "grade": "C",
+          "score": 5000,
+          "tokens": 0,
+          "reward": "Kansas City Current Kit"
+        },
+        {
+          "grade": "B",
+          "score": 16000,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 24000,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 34500,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "north-carolina-courage",
+      "name": "North Carolina Courage",
+      "category": "national-women-s-soccer-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 116303,
+      "eaRarityIds": [],
+      "membership": "15 North Carolina Courage Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "North Carolina Courage Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1100,
+          "tokens": 0,
+          "reward": "North Carolina Courage Kit"
+        },
+        {
+          "grade": "B",
+          "score": 1500,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 2500,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 3500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "orlando-pride",
+      "name": "Orlando Pride",
+      "category": "national-women-s-soccer-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 116307,
+      "eaRarityIds": [],
+      "membership": "15 Orlando Pride Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Orlando Pride Badge"
+        },
+        {
+          "grade": "C",
+          "score": 2700,
+          "tokens": 0,
+          "reward": "Orlando Pride Kit"
+        },
+        {
+          "grade": "B",
+          "score": 3750,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 6000,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 8750,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "portland-thorns-fc",
+      "name": "Portland Thorns FC",
+      "category": "national-women-s-soccer-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 116302,
+      "eaRarityIds": [],
+      "membership": "15 Portland Thorns FC Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Portland Thorns FC Badge"
+        },
+        {
+          "grade": "C",
+          "score": 3800,
+          "tokens": 0,
+          "reward": "Portland Thorns FC Kit"
+        },
+        {
+          "grade": "B",
+          "score": 5250,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 8250,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 12000,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "racing-louisville-fc",
+      "name": "Racing Louisville FC",
+      "category": "national-women-s-soccer-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 116308,
+      "eaRarityIds": [],
+      "membership": "15 Racing Louisville FC Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Racing Louisville FC Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1000,
+          "tokens": 0,
+          "reward": "Racing Louisville FC Kit"
+        },
+        {
+          "grade": "B",
+          "score": 1250,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 2250,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 3000,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "san-diego-wave-fc",
+      "name": "San Diego Wave FC",
+      "category": "national-women-s-soccer-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 116312,
+      "eaRarityIds": [],
+      "membership": "15 San Diego Wave FC Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "San Diego Wave FC Badge"
+        },
+        {
+          "grade": "C",
+          "score": 2200,
+          "tokens": 0,
+          "reward": "San Diego Wave FC Kit"
+        },
+        {
+          "grade": "B",
+          "score": 3000,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 4750,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 7000,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "seattle-reign-fc",
+      "name": "Seattle Reign FC",
+      "category": "national-women-s-soccer-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 116300,
+      "eaRarityIds": [],
+      "membership": "15 Seattle Reign FC Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Seattle Reign FC Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1500,
+          "tokens": 0,
+          "reward": "Seattle Reign FC Kit"
+        },
+        {
+          "grade": "B",
+          "score": 2000,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 3250,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 4750,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "utah-royals-fc",
+      "name": "Utah Royals FC",
+      "category": "national-women-s-soccer-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 131478,
+      "eaRarityIds": [],
+      "membership": "15 Utah Royals FC Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Utah Royals Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1000,
+          "tokens": 0,
+          "reward": "Utah Royals FC Kit"
+        },
+        {
+          "grade": "B",
+          "score": 1500,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 2250,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 3250,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "washington-spirit",
+      "name": "Washington Spirit",
+      "category": "national-women-s-soccer-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 116304,
+      "eaRarityIds": [],
+      "membership": "15 Washington Spirit Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Washington Spirit Badge"
+        },
+        {
+          "grade": "C",
+          "score": 2500,
+          "tokens": 0,
+          "reward": "Washington Spirit Kit"
+        },
+        {
+          "grade": "B",
+          "score": 4000,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 5500,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 7500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "arsenal",
+      "name": "Arsenal",
+      "category": "premier-league",
+      "required": 20,
+      "eaEntityKind": "club",
+      "eaEntityId": 1,
+      "eaRarityIds": [],
+      "membership": "20 Arsenal Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Arsenal Badge"
+        },
+        {
+          "grade": "C",
+          "score": 110000,
+          "tokens": 0,
+          "reward": "Arsenal Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1300000,
+          "tokens": 70,
+          "reward": "70 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 2500000,
+          "tokens": 100,
+          "reward": "100 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "aston-villa",
+      "name": "Aston Villa",
+      "category": "premier-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 2,
+      "eaRarityIds": [],
+      "membership": "15 Aston Villa Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Aston Villa Badge"
+        },
+        {
+          "grade": "C",
+          "score": 9000,
+          "tokens": 0,
+          "reward": "Aston Villa Kit"
+        },
+        {
+          "grade": "B",
+          "score": 40000,
+          "tokens": 30,
+          "reward": "30 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 80000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 150000,
+          "tokens": 75,
+          "reward": "75 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "birmingham-city",
+      "name": "Birmingham City",
+      "category": "premier-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 88,
+      "eaRarityIds": [],
+      "membership": "15 Birmingham City Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Birmingham City Badge"
+        },
+        {
+          "grade": "C",
+          "score": 300,
+          "tokens": 0,
+          "reward": "Birmingham City Kit"
+        },
+        {
+          "grade": "B",
+          "score": 500,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 700,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1000,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "bournemouth",
+      "name": "Bournemouth",
+      "category": "premier-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 1943,
+      "eaRarityIds": [],
+      "membership": "15 Bournemouth Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "AFC Bournemouth Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1600,
+          "tokens": 0,
+          "reward": "Bournemouth Kit"
+        },
+        {
+          "grade": "B",
+          "score": 2800,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 4200,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 5900,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "brentford",
+      "name": "Brentford",
+      "category": "premier-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 1925,
+      "eaRarityIds": [],
+      "membership": "15 Brentford Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Brentford Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1400,
+          "tokens": 0,
+          "reward": "Brentford Kit"
+        },
+        {
+          "grade": "B",
+          "score": 2700,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 4000,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 5700,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "brighton-hove-albion",
+      "name": "Brighton & Hove Albion",
+      "category": "premier-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 1808,
+      "eaRarityIds": [],
+      "membership": "15 Brighton & Hove Albion Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Brighton & Hove Albion Badge"
+        },
+        {
+          "grade": "C",
+          "score": 4000,
+          "tokens": 0,
+          "reward": "Brighton & Hove Albion Kit"
+        },
+        {
+          "grade": "B",
+          "score": 13000,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 23500,
+          "tokens": 25,
+          "reward": "25 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 42500,
+          "tokens": 40,
+          "reward": "40 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "charlton",
+      "name": "Charlton",
+      "category": "premier-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 89,
+      "eaRarityIds": [],
+      "membership": "15 Charlton Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Charlton Athletic Badge"
+        },
+        {
+          "grade": "C",
+          "score": 300,
+          "tokens": 0,
+          "reward": "Charlton Kit"
+        },
+        {
+          "grade": "B",
+          "score": 500,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 700,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1000,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "chelsea",
+      "name": "Chelsea",
+      "category": "premier-league",
+      "required": 20,
+      "eaEntityKind": "club",
+      "eaEntityId": 5,
+      "eaRarityIds": [],
+      "membership": "20 Chelsea Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Chelsea Badge"
+        },
+        {
+          "grade": "C",
+          "score": 50000,
+          "tokens": 0,
+          "reward": "Chelsea Kit"
+        },
+        {
+          "grade": "B",
+          "score": 600000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 900000,
+          "tokens": 70,
+          "reward": "70 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500000,
+          "tokens": 100,
+          "reward": "100 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "coventry-city",
+      "name": "Coventry City",
+      "category": "premier-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 1800,
+      "eaRarityIds": [],
+      "membership": "15 Coventry City Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Coventry City Badge"
+        },
+        {
+          "grade": "C",
+          "score": 400,
+          "tokens": 0,
+          "reward": "Coventry City Kit"
+        },
+        {
+          "grade": "B",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1700,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 2400,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "crystal-palace",
+      "name": "Crystal Palace",
+      "category": "premier-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 1799,
+      "eaRarityIds": [],
+      "membership": "15 Crystal Palace Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Crystal Palace Badge"
+        },
+        {
+          "grade": "C",
+          "score": 3000,
+          "tokens": 0,
+          "reward": "Crystal Palace Kit"
+        },
+        {
+          "grade": "B",
+          "score": 27500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 30000,
+          "tokens": 25,
+          "reward": "25 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 35000,
+          "tokens": 40,
+          "reward": "40 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "everton",
+      "name": "Everton",
+      "category": "premier-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 7,
+      "eaRarityIds": [],
+      "membership": "15 Everton Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Everton Badge"
+        },
+        {
+          "grade": "C",
+          "score": 3000,
+          "tokens": 0,
+          "reward": "Everton Kit"
+        },
+        {
+          "grade": "B",
+          "score": 15000,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 22500,
+          "tokens": 25,
+          "reward": "25 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 36000,
+          "tokens": 40,
+          "reward": "40 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "fulham",
+      "name": "Fulham",
+      "category": "premier-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 144,
+      "eaRarityIds": [],
+      "membership": "15 Fulham Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Fulham Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1500,
+          "tokens": 0,
+          "reward": "Fulham Kit"
+        },
+        {
+          "grade": "B",
+          "score": 2700,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 4000,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 5700,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "hull-city",
+      "name": "Hull City",
+      "category": "premier-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 1952,
+      "eaRarityIds": [],
+      "membership": "15 Hull City Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Hull City Badge"
+        },
+        {
+          "grade": "C",
+          "score": 400,
+          "tokens": 0,
+          "reward": "Hull City Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "ipswich-town",
+      "name": "Ipswich Town",
+      "category": "premier-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 94,
+      "eaRarityIds": [],
+      "membership": "15 Ipswich Town Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Ipswich Town Badge"
+        },
+        {
+          "grade": "C",
+          "score": 600,
+          "tokens": 0,
+          "reward": "Ipswich Town Kit"
+        },
+        {
+          "grade": "B",
+          "score": 1400,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 2100,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 3000,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "leeds-united",
+      "name": "Leeds United",
+      "category": "premier-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 8,
+      "eaRarityIds": [],
+      "membership": "15 Leeds United Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Leeds United Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1100,
+          "tokens": 0,
+          "reward": "Leeds United Kit"
+        },
+        {
+          "grade": "B",
+          "score": 2300,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 3400,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 4800,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "liverpool",
+      "name": "Liverpool",
+      "category": "premier-league",
+      "required": 20,
+      "eaEntityKind": "club",
+      "eaEntityId": 9,
+      "eaRarityIds": [],
+      "membership": "20 Liverpool Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Liverpool Badge"
+        },
+        {
+          "grade": "C",
+          "score": 60000,
+          "tokens": 0,
+          "reward": "Liverpool Kit"
+        },
+        {
+          "grade": "B",
+          "score": 600000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100000,
+          "tokens": 70,
+          "reward": "70 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 2000000,
+          "tokens": 100,
+          "reward": "100 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "london-city-lionesses",
+      "name": "London City Lionesses",
+      "category": "premier-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 132176,
+      "eaRarityIds": [],
+      "membership": "15 London City Lionesses Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "London City Lionesses Badge"
+        },
+        {
+          "grade": "C",
+          "score": 5000,
+          "tokens": 0,
+          "reward": "London City Lionesses Kit"
+        },
+        {
+          "grade": "B",
+          "score": 25000,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 31500,
+          "tokens": 25,
+          "reward": "25 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 44000,
+          "tokens": 40,
+          "reward": "40 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "manchester-city",
+      "name": "Manchester City",
+      "category": "premier-league",
+      "required": 20,
+      "eaEntityKind": "club",
+      "eaEntityId": 10,
+      "eaRarityIds": [],
+      "membership": "20 Manchester City Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Manchester City Badge"
+        },
+        {
+          "grade": "C",
+          "score": 60000,
+          "tokens": 0,
+          "reward": "Manchester City Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1300000,
+          "tokens": 70,
+          "reward": "70 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 2500000,
+          "tokens": 100,
+          "reward": "100 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "manchester-united",
+      "name": "Manchester United",
+      "category": "premier-league",
+      "required": 20,
+      "eaEntityKind": "club",
+      "eaEntityId": 11,
+      "eaRarityIds": [],
+      "membership": "20 Manchester United Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Manchester United Badge"
+        },
+        {
+          "grade": "C",
+          "score": 20000,
+          "tokens": 0,
+          "reward": "Manchester United Kit"
+        },
+        {
+          "grade": "B",
+          "score": 300000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 700000,
+          "tokens": 70,
+          "reward": "70 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500000,
+          "tokens": 100,
+          "reward": "100 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "newcastle-united",
+      "name": "Newcastle United",
+      "category": "premier-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 13,
+      "eaRarityIds": [],
+      "membership": "15 Newcastle United Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Newcastle United Badge"
+        },
+        {
+          "grade": "C",
+          "score": 11500,
+          "tokens": 0,
+          "reward": "Newcastle United Kit"
+        },
+        {
+          "grade": "B",
+          "score": 154000,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 187500,
+          "tokens": 25,
+          "reward": "25 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 250000,
+          "tokens": 40,
+          "reward": "40 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "nottingham-forest",
+      "name": "Nottingham Forest",
+      "category": "premier-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 14,
+      "eaRarityIds": [],
+      "membership": "15 Nottingham Forest Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Nottingham Forest Badge"
+        },
+        {
+          "grade": "C",
+          "score": 2100,
+          "tokens": 0,
+          "reward": "Nottingham Forest Kit"
+        },
+        {
+          "grade": "B",
+          "score": 7200,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 10700,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 15200,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "sunderland",
+      "name": "Sunderland",
+      "category": "premier-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 106,
+      "eaRarityIds": [],
+      "membership": "15 Sunderland Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Sunderland Badge"
+        },
+        {
+          "grade": "C",
+          "score": 2500,
+          "tokens": 0,
+          "reward": "Sunderland Kit"
+        },
+        {
+          "grade": "B",
+          "score": 11000,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 15000,
+          "tokens": 25,
+          "reward": "25 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 22500,
+          "tokens": 40,
+          "reward": "40 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "tottenham-hotspur",
+      "name": "Tottenham Hotspur",
+      "category": "premier-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 18,
+      "eaRarityIds": [],
+      "membership": "15 Tottenham Hotspur Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Tottenham Hotspur Badge"
+        },
+        {
+          "grade": "C",
+          "score": 9000,
+          "tokens": 0,
+          "reward": "Tottenham Hotspur Kit"
+        },
+        {
+          "grade": "B",
+          "score": 40000,
+          "tokens": 30,
+          "reward": "30 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 100000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 200000,
+          "tokens": 75,
+          "reward": "75 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "west-ham",
+      "name": "West Ham",
+      "category": "premier-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 116014,
+      "eaRarityIds": [],
+      "membership": "15 West Ham Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "West Ham United Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1400,
+          "tokens": 0,
+          "reward": "West Ham Kit"
+        },
+        {
+          "grade": "B",
+          "score": 2000,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 3200,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 4600,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "heroes",
+      "name": "Heroes",
+      "category": "rarities",
+      "required": 5,
+      "eaEntityKind": "rarity",
+      "eaEntityId": 72,
+      "eaRarityIds": [
+        72
+      ],
+      "membership": "",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "C",
+          "score": 50000,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        },
+        {
+          "grade": "B",
+          "score": 75000,
+          "tokens": 30,
+          "reward": "30 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 100000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 200000,
+          "tokens": 75,
+          "reward": "75 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "holographics",
+      "name": "Holographics",
+      "category": "rarities",
+      "required": 5,
+      "eaEntityKind": null,
+      "eaEntityId": null,
+      "eaRarityIds": [],
+      "membership": "",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "C",
+          "score": 75000,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        },
+        {
+          "grade": "B",
+          "score": 150000,
+          "tokens": 30,
+          "reward": "30 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 200000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 250000,
+          "tokens": 75,
+          "reward": "75 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "potm",
+      "name": "POTM",
+      "category": "rarities",
+      "required": 7,
+      "eaEntityKind": null,
+      "eaEntityId": null,
+      "eaRarityIds": [
+        42,
+        43,
+        79,
+        86,
+        114,
+        177
+      ],
+      "membership": "",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10000,
+          "tokens": 0,
+          "reward": "No reward at this grade"
+        },
+        {
+          "grade": "C",
+          "score": 100000,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "B",
+          "score": 150000,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 200000,
+          "tokens": 30,
+          "reward": "30 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 250000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "season-1",
+      "name": "Season 1",
+      "category": "rarities",
+      "required": 10,
+      "eaEntityKind": null,
+      "eaEntityId": null,
+      "eaRarityIds": [
+        22,
+        71,
+        150
+      ],
+      "membership": "",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 1000,
+          "tokens": 0,
+          "reward": "No reward at this grade"
+        },
+        {
+          "grade": "C",
+          "score": 25000,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "B",
+          "score": 60000,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 100000,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 150000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "squad-foundations",
+      "name": "Squad Foundations",
+      "category": "rarities",
+      "required": 4,
+      "eaEntityKind": "rarity",
+      "eaEntityId": 87,
+      "eaRarityIds": [
+        87
+      ],
+      "membership": "",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "No reward at this grade"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "No reward at this grade"
+        },
+        {
+          "grade": "B",
+          "score": 750,
+          "tokens": 0,
+          "reward": "No reward at this grade"
+        },
+        {
+          "grade": "A",
+          "score": 1000,
+          "tokens": 0,
+          "reward": "No reward at this grade"
+        },
+        {
+          "grade": "S",
+          "score": 1250,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "starter-set",
+      "name": "Starter Set",
+      "category": "rarities",
+      "required": 5,
+      "eaEntityKind": "rarity",
+      "eaEntityId": 0,
+      "eaRarityIds": [
+        0
+      ],
+      "membership": "",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "No reward at this grade"
+        },
+        {
+          "grade": "C",
+          "score": 250,
+          "tokens": 0,
+          "reward": "No reward at this grade"
+        },
+        {
+          "grade": "B",
+          "score": 500,
+          "tokens": 0,
+          "reward": "No reward at this grade"
+        },
+        {
+          "grade": "A",
+          "score": 1000,
+          "tokens": 0,
+          "reward": "No reward at this grade"
+        },
+        {
+          "grade": "S",
+          "score": 2000,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "totw",
+      "name": "TOTW",
+      "category": "rarities",
+      "required": 20,
+      "eaEntityKind": "rarity",
+      "eaEntityId": 3,
+      "eaRarityIds": [
+        3
+      ],
+      "membership": "",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "C",
+          "score": 125000,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        },
+        {
+          "grade": "B",
+          "score": 175000,
+          "tokens": 30,
+          "reward": "30 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 300000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 550000,
+          "tokens": 75,
+          "reward": "75 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "ultimate-scream",
+      "name": "Ultimate Scream",
+      "category": "rarities",
+      "required": 5,
+      "eaEntityKind": null,
+      "eaEntityId": null,
+      "eaRarityIds": [
+        151,
+        168
+      ],
+      "membership": "",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 1000,
+          "tokens": 0,
+          "reward": "No reward at this grade"
+        },
+        {
+          "grade": "C",
+          "score": 25000,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "B",
+          "score": 50000,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 80000,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 115000,
+          "tokens": 40,
+          "reward": "40 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "abha",
+      "name": "Abha",
+      "category": "roshn-saudi-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 113058,
+      "eaRarityIds": [],
+      "membership": "15 Abha Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Abha Club Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "Abha Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "al-ahli",
+      "name": "Al Ahli",
+      "category": "roshn-saudi-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 112387,
+      "eaRarityIds": [],
+      "membership": "15 Al Ahli Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Al Ahli Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1500,
+          "tokens": 0,
+          "reward": "Al Ahli Kit"
+        },
+        {
+          "grade": "B",
+          "score": 3500,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 5000,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 7500,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "al-ettifaq",
+      "name": "Al Ettifaq",
+      "category": "roshn-saudi-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 112096,
+      "eaRarityIds": [],
+      "membership": "15 Al Ettifaq Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Al Ettifaq Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "Al Ettifaq Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "al-faisaly",
+      "name": "Al Faisaly",
+      "category": "roshn-saudi-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 112389,
+      "eaRarityIds": [],
+      "membership": "15 Al Faisaly Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Al Faisaly Badge"
+        },
+        {
+          "grade": "C",
+          "score": 300,
+          "tokens": 0,
+          "reward": "Al Faisaly Kit"
+        },
+        {
+          "grade": "B",
+          "score": 400,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 600,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 900,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "al-fateh",
+      "name": "Al Fateh",
+      "category": "roshn-saudi-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 112390,
+      "eaRarityIds": [],
+      "membership": "15 Al Fateh Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Al Fateh Badge"
+        },
+        {
+          "grade": "C",
+          "score": 400,
+          "tokens": 0,
+          "reward": "Al Fateh Kit"
+        },
+        {
+          "grade": "B",
+          "score": 500,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 800,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1200,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "al-fayha",
+      "name": "Al Fayha",
+      "category": "roshn-saudi-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 113057,
+      "eaRarityIds": [],
+      "membership": "15 Al Fayha Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Al Fayha Badge"
+        },
+        {
+          "grade": "C",
+          "score": 400,
+          "tokens": 0,
+          "reward": "Al Fayha Kit"
+        },
+        {
+          "grade": "B",
+          "score": 500,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 800,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1200,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "al-hazem",
+      "name": "Al Hazem",
+      "category": "roshn-saudi-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 113222,
+      "eaRarityIds": [],
+      "membership": "15 Al Hazem Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Al Hazem Badge"
+        },
+        {
+          "grade": "C",
+          "score": 300,
+          "tokens": 0,
+          "reward": "Al Hazem Kit"
+        },
+        {
+          "grade": "B",
+          "score": 400,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 600,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 900,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "al-hilal",
+      "name": "Al Hilal",
+      "category": "roshn-saudi-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 605,
+      "eaRarityIds": [],
+      "membership": "15 Al Hilal Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Al Hilal Badge"
+        },
+        {
+          "grade": "C",
+          "score": 3000,
+          "tokens": 0,
+          "reward": "Al Hilal Kit"
+        },
+        {
+          "grade": "B",
+          "score": 7500,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 11000,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 15500,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "al-ittihad",
+      "name": "Al Ittihad",
+      "category": "roshn-saudi-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 607,
+      "eaRarityIds": [],
+      "membership": "15 Al Ittihad Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Al Ittihad Badge"
+        },
+        {
+          "grade": "C",
+          "score": 2500,
+          "tokens": 0,
+          "reward": "Al Ittihad Kit"
+        },
+        {
+          "grade": "B",
+          "score": 3500,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 5500,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 8000,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "al-khaleej",
+      "name": "Al Khaleej",
+      "category": "roshn-saudi-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 112883,
+      "eaRarityIds": [],
+      "membership": "15 Al Khaleej Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Al Khaleej Badge"
+        },
+        {
+          "grade": "C",
+          "score": 400,
+          "tokens": 0,
+          "reward": "Al Khaleej Kit"
+        },
+        {
+          "grade": "B",
+          "score": 500,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 800,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1200,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "al-kholood",
+      "name": "Al Kholood",
+      "category": "roshn-saudi-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 131735,
+      "eaRarityIds": [],
+      "membership": "15 Al Kholood Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Al Kholood Badge"
+        },
+        {
+          "grade": "C",
+          "score": 400,
+          "tokens": 0,
+          "reward": "Al Kholood Kit"
+        },
+        {
+          "grade": "B",
+          "score": 500,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 800,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1200,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "al-nassr",
+      "name": "Al Nassr",
+      "category": "roshn-saudi-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 112139,
+      "eaRarityIds": [],
+      "membership": "15 Al Nassr Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Al Nassr Badge"
+        },
+        {
+          "grade": "C",
+          "score": 3000,
+          "tokens": 0,
+          "reward": "Al Nassr Kit"
+        },
+        {
+          "grade": "B",
+          "score": 11500,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 17000,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 24000,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "al-qadsiah",
+      "name": "Al Qadsiah",
+      "category": "roshn-saudi-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 112391,
+      "eaRarityIds": [],
+      "membership": "15 Al Qadsiah Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Al Qadsiah Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1200,
+          "tokens": 0,
+          "reward": "Al Qadsiah Kit"
+        },
+        {
+          "grade": "B",
+          "score": 1700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 2700,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 4000,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "al-riyadh",
+      "name": "Al Riyadh",
+      "category": "roshn-saudi-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 113037,
+      "eaRarityIds": [],
+      "membership": "15 Al Riyadh Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Al Riyadh Badge"
+        },
+        {
+          "grade": "C",
+          "score": 400,
+          "tokens": 0,
+          "reward": "Al Riyadh Kit"
+        },
+        {
+          "grade": "B",
+          "score": 500,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 800,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1200,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "al-shabab",
+      "name": "Al Shabab",
+      "category": "roshn-saudi-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 111674,
+      "eaRarityIds": [],
+      "membership": "15 Al Shabab Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Al Shabab Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "Al Shabab Kit"
+        },
+        {
+          "grade": "B",
+          "score": 1000,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1500,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 2500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "al-taawoun",
+      "name": "Al Taawoun",
+      "category": "roshn-saudi-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 112393,
+      "eaRarityIds": [],
+      "membership": "15 Al Taawoun Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Al Taawoun Badge"
+        },
+        {
+          "grade": "C",
+          "score": 600,
+          "tokens": 0,
+          "reward": "Al Taawoun Kit"
+        },
+        {
+          "grade": "B",
+          "score": 800,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1300,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1900,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "diriyah",
+      "name": "Diriyah",
+      "category": "roshn-saudi-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 113224,
+      "eaRarityIds": [],
+      "membership": "15 Diriyah Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Diriyah Club Badge"
+        },
+        {
+          "grade": "C",
+          "score": 600,
+          "tokens": 0,
+          "reward": "Diriyah Kit"
+        },
+        {
+          "grade": "B",
+          "score": 800,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1300,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1900,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "neom-sc",
+      "name": "Neom SC",
+      "category": "roshn-saudi-league",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 131798,
+      "eaRarityIds": [],
+      "membership": "15 Neom SC Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "NEOM SC Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "Neom SC Kit"
+        },
+        {
+          "grade": "B",
+          "score": 800,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1200,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1800,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "bergamo-calcio",
+      "name": "Bergamo Calcio",
+      "category": "serie-a",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 115845,
+      "eaRarityIds": [],
+      "membership": "15 Bergamo Calcio Mens or Womens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Bergamo Calcio Badge"
+        },
+        {
+          "grade": "C",
+          "score": 2200,
+          "tokens": 0,
+          "reward": "Bergamo Calcio Kit"
+        },
+        {
+          "grade": "B",
+          "score": 3600,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 5400,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 7600,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "bologna",
+      "name": "Bologna",
+      "category": "serie-a",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 189,
+      "eaRarityIds": [],
+      "membership": "15 Bologna Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Bologna Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1300,
+          "tokens": 0,
+          "reward": "Bologna Kit"
+        },
+        {
+          "grade": "B",
+          "score": 2800,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 4100,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 5900,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "cagliari",
+      "name": "Cagliari",
+      "category": "serie-a",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 1842,
+      "eaRarityIds": [],
+      "membership": "15 Cagliari Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Cagliari Badge"
+        },
+        {
+          "grade": "C",
+          "score": 700,
+          "tokens": 0,
+          "reward": "Cagliari Kit"
+        },
+        {
+          "grade": "B",
+          "score": 1000,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1500,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 2200,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "como",
+      "name": "Como",
+      "category": "serie-a",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 1745,
+      "eaRarityIds": [],
+      "membership": "15 Como Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Como Badge"
+        },
+        {
+          "grade": "C",
+          "score": 2000,
+          "tokens": 0,
+          "reward": "Como Kit"
+        },
+        {
+          "grade": "B",
+          "score": 13000,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 15500,
+          "tokens": 25,
+          "reward": "25 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 19500,
+          "tokens": 40,
+          "reward": "40 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "fiorentina",
+      "name": "Fiorentina",
+      "category": "serie-a",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 110374,
+      "eaRarityIds": [],
+      "membership": "15 Fiorentina Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Fiorentina Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1900,
+          "tokens": 0,
+          "reward": "Fiorentina Kit"
+        },
+        {
+          "grade": "B",
+          "score": 5600,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 8400,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 11800,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "frosinone",
+      "name": "Frosinone",
+      "category": "serie-a",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 111657,
+      "eaRarityIds": [],
+      "membership": "15 Frosinone Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Frosinone Badge"
+        },
+        {
+          "grade": "C",
+          "score": 200,
+          "tokens": 0,
+          "reward": "Frosinone Kit"
+        },
+        {
+          "grade": "B",
+          "score": 320,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 480,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 720,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "genoa",
+      "name": "Genoa",
+      "category": "serie-a",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 110556,
+      "eaRarityIds": [],
+      "membership": "15 Genoa Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Genoa Badge"
+        },
+        {
+          "grade": "C",
+          "score": 600,
+          "tokens": 0,
+          "reward": "Genoa Kit"
+        },
+        {
+          "grade": "B",
+          "score": 900,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1400,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 2000,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "juventus",
+      "name": "Juventus",
+      "category": "serie-a",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 45,
+      "eaRarityIds": [],
+      "membership": "15 Juventus Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Juventus Badge"
+        },
+        {
+          "grade": "C",
+          "score": 12000,
+          "tokens": 0,
+          "reward": "Juventus Kit"
+        },
+        {
+          "grade": "B",
+          "score": 60000,
+          "tokens": 30,
+          "reward": "30 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 180000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 375000,
+          "tokens": 75,
+          "reward": "75 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "lecce",
+      "name": "Lecce",
+      "category": "serie-a",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 347,
+      "eaRarityIds": [],
+      "membership": "15 Lecce Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Lecce Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "Lecce Kit"
+        },
+        {
+          "grade": "B",
+          "score": 800,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1200,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1700,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "lombardia-fc",
+      "name": "Lombardia FC",
+      "category": "serie-a",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 131682,
+      "eaRarityIds": [],
+      "membership": "15 Lombardia FC Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Lombardia FC Badge"
+        },
+        {
+          "grade": "C",
+          "score": 41000,
+          "tokens": 0,
+          "reward": "Lombardia FC Kit"
+        },
+        {
+          "grade": "B",
+          "score": 220000,
+          "tokens": 30,
+          "reward": "30 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 440000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 825000,
+          "tokens": 75,
+          "reward": "75 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "milano-fc",
+      "name": "Milano FC",
+      "category": "serie-a",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 131681,
+      "eaRarityIds": [],
+      "membership": "15 Milano FC Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Milano FC Badge"
+        },
+        {
+          "grade": "C",
+          "score": 10000,
+          "tokens": 0,
+          "reward": "Milano FC Kit"
+        },
+        {
+          "grade": "B",
+          "score": 180000,
+          "tokens": 30,
+          "reward": "30 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 400000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 825000,
+          "tokens": 75,
+          "reward": "75 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "monza",
+      "name": "Monza",
+      "category": "serie-a",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 111811,
+      "eaRarityIds": [],
+      "membership": "15 Monza Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Monza Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "Monza Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1700,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "napoli",
+      "name": "Napoli",
+      "category": "serie-a",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 48,
+      "eaRarityIds": [],
+      "membership": "15 Napoli Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Napoli Badge"
+        },
+        {
+          "grade": "C",
+          "score": 13000,
+          "tokens": 0,
+          "reward": "Napoli Kit"
+        },
+        {
+          "grade": "B",
+          "score": 180000,
+          "tokens": 30,
+          "reward": "30 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 280000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 450000,
+          "tokens": 75,
+          "reward": "75 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "parma",
+      "name": "Parma",
+      "category": "serie-a",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 50,
+      "eaRarityIds": [],
+      "membership": "15 Parma Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Parma Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "Parma Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1600,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "roma",
+      "name": "Roma",
+      "category": "serie-a",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 52,
+      "eaRarityIds": [],
+      "membership": "15 Roma Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Roma Badge"
+        },
+        {
+          "grade": "C",
+          "score": 10000,
+          "tokens": 0,
+          "reward": "Roma Kit"
+        },
+        {
+          "grade": "B",
+          "score": 80000,
+          "tokens": 30,
+          "reward": "30 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 160000,
+          "tokens": 50,
+          "reward": "50 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 300000,
+          "tokens": 75,
+          "reward": "75 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "sassuolo",
+      "name": "Sassuolo",
+      "category": "serie-a",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 111974,
+      "eaRarityIds": [],
+      "membership": "15 Sassuolo Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Sassuolo Badge"
+        },
+        {
+          "grade": "C",
+          "score": 600,
+          "tokens": 0,
+          "reward": "Sassuolo Kit"
+        },
+        {
+          "grade": "B",
+          "score": 5100,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 7300,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 9565,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "ss-lazio",
+      "name": "SS Lazio",
+      "category": "serie-a",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 115841,
+      "eaRarityIds": [],
+      "membership": "15 SS Lazio Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Lazio Badge"
+        },
+        {
+          "grade": "C",
+          "score": 2000,
+          "tokens": 0,
+          "reward": "SS Lazio Kit"
+        },
+        {
+          "grade": "B",
+          "score": 3400,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 5100,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 7200,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "torino",
+      "name": "Torino",
+      "category": "serie-a",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 54,
+      "eaRarityIds": [],
+      "membership": "15 Torino Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Torino Badge"
+        },
+        {
+          "grade": "C",
+          "score": 1100,
+          "tokens": 0,
+          "reward": "Torino Kit"
+        },
+        {
+          "grade": "B",
+          "score": 1800,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 2700,
+          "tokens": 10,
+          "reward": "10 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 3900,
+          "tokens": 20,
+          "reward": "20 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "udinese",
+      "name": "Udinese",
+      "category": "serie-a",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 55,
+      "eaRarityIds": [],
+      "membership": "15 Udinese Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Udinese Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "Udinese Kit"
+        },
+        {
+          "grade": "B",
+          "score": 700,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1200,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1700,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    },
+    {
+      "slug": "venezia",
+      "name": "Venezia",
+      "category": "serie-a",
+      "required": 15,
+      "eaEntityKind": "club",
+      "eaEntityId": 205,
+      "eaRarityIds": [],
+      "membership": "15 Venezia Mens players",
+      "grades": [
+        {
+          "grade": "D",
+          "score": 10,
+          "tokens": 0,
+          "reward": "Venezia Badge"
+        },
+        {
+          "grade": "C",
+          "score": 500,
+          "tokens": 0,
+          "reward": "Venezia Kit"
+        },
+        {
+          "grade": "B",
+          "score": 600,
+          "tokens": 5,
+          "reward": "5 Gallery Tokens"
+        },
+        {
+          "grade": "A",
+          "score": 1000,
+          "tokens": 8,
+          "reward": "8 Gallery Tokens"
+        },
+        {
+          "grade": "S",
+          "score": 1500,
+          "tokens": 15,
+          "reward": "15 Gallery Tokens"
+        }
+      ]
+    }
+  ]
+}
